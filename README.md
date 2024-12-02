@@ -1,0 +1,1 @@
+This is a repo to document my progress on the [Advent of Code 2024 challenge](https://adventofcode.com/2024/).
